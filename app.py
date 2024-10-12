@@ -10,4 +10,5 @@ from PIL import Image
 
 
 st.title('This is just a test made a change')
+st.write("Now using PIL")
 
